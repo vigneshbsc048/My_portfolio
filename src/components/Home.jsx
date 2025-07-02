@@ -37,7 +37,7 @@ const Home = () => {
         </p>
         <div className="Maindiv">
           <a
-            href="/My_portfolio/my-cv.pdf"
+            href="/My_portfolio/mycv1.pdf"
             className="GITbutton"
             target="_blank"
             rel="noopener noreferrer"
