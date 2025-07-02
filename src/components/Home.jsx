@@ -36,7 +36,12 @@ const Home = () => {
           I'm <span className="typed" ref={typedElement}></span>
         </p>
         <div className="Maindiv">
-          <a href="/My_portfolio/my-cv.pdf" className="GITbutton">
+          <a
+            href="/My_portfolio/my-cv.pdf"
+            className="GITbutton"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Download CV
             <div className="hoverEffect">
               <div className="divname"></div>
