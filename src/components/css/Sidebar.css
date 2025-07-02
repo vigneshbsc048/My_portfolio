@@ -1,0 +1,17 @@
+/* Show/hide mobile nav */
+.navmenu {
+  display: none;
+}
+
+.navmenu.navmenu-active {
+  display: block;
+}
+
+/* Optional: Animate the dropdown */
+.dropdown ul {
+  display: none;
+}
+
+.dropdown.active-dropdown > ul {
+  display: block;
+}
