@@ -36,14 +36,14 @@ const Home = () => {
           I'm <span className="typed" ref={typedElement}></span>
         </p>
         <div className="Maindiv">
-          <a href="/my-cv.pdf" className="GITbutton">
+          <a href="/My_portfolio/my-cv.pdf" className="GITbutton">
             Download CV
             <div className="hoverEffect">
               <div className="divname"></div>
             </div>
           </a>
 
-          <a href="/#contact" className="cta">
+          <a href="/My_portfolio/#contact" className="cta">
             <span>Hire me</span>
             <svg width="15px" height="10px" viewBox="0 0 13 10">
               <path d="M1,5 L11,5"></path>
